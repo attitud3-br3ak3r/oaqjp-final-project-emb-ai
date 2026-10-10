@@ -1,6 +1,14 @@
-<<<<<<< HEAD
-# Repository for final project
-Final Project
-=======
-# emotion-detection
->>>>>>> 3609254868c66b5a86089886220c70cb35dc9be1
+# Final project
+
+## Emotion Detection Application
+
+This project analyzes text using Python, Flask, and IBM Watson NLP Emotion Detection.
+
+It identifies five emotions:
+- Anger
+- Disgust
+- Fear
+- Joy
+- Sadness
+
+The application also identifies the dominant emotion in the submitted text.
